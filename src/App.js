@@ -10,6 +10,8 @@ function App() {
       <h1>Hello</h1>
       <Food fav="kimchi" />
       <Food fav="ramen" />
+      <Food fav="samgiopsal" />
+      <Food fav="chokumi" />
     </div>
   );
 }
